@@ -1,0 +1,3 @@
+# Decoded copies of assets that already live inside the standalone bundle.
+# Regenerate with: node tools/unbundle.js
+src/assets/

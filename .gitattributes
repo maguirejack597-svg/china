@@ -1,0 +1,4 @@
+# The standalone bundle carries a JSON payload on a single very long line.
+# Letting git rewrite line endings on checkout breaks the unbundle/rebundle
+# round-trip, so keep the HTML byte-exact regardless of core.autocrlf.
+*.html -text
