@@ -14,9 +14,9 @@ Repo: <https://github.com/maguirejack597-svg/china>
 | Home | Your text. Done. |
 | Timeline | Your text, 5 events, all sourced. Done. |
 | Event Analysis | Your text + 2 quotations. Done. |
-| 01 Health as Language | **4 poster images only** — needs your writing |
-| 02 Two Chinas | **Title only** — needs writing (no image assigned) |
-| 03 Missing Daughters | **Map + chart only** — needs your writing |
+| 01 Health as Language | Author’s text + 4 posters with descriptions + 2 quotations. Done. |
+| 02 Two Chinas | Author’s text + urban/rural/minority comparison + 2 quotations. Done. |
+| 03 Missing Daughters | Map + chart + 2 quotations, but **draft prose** — needs your writing |
 | 04 The Backfire | **Removed 17 Sep 2026** at the author’s request |
 | Sources | Full bibliography. Done. |
 
@@ -30,7 +30,7 @@ Repo: <https://github.com/maguirejack597-svg/china>
 | 2 academic secondary (database) | Met — 3 available |
 | 1 popular article | Met — Al Jazeera / Guardian / CGTN |
 | 1 popular multimedia | Met — 4-poster sequence (Option 2) |
-| 2–3 graphs/charts/maps, different kinds | Met — map + 2 graphs |
+| 2–3 graphs/charts/maps, different kinds | Met — provincial map + line chart, both on 03 (the OWID graph went with page 04) |
 | Homepage | Met |
 | Timeline, 4–5 events | Met — 5 |
 | Event analysis + 2 quotations | Met |
@@ -39,7 +39,7 @@ Repo: <https://github.com/maguirejack597-svg/china>
 
 **01 and 02 carry the author’s own text. 03 still has draft prose awaiting the author’s writing.**
 
-Note: the rubric asks for the image slideshow to carry *captions and 2–3 sentence descriptions*. The captions and source links are on the page; the descriptions were removed with the rest of the draft text, so those need rewriting too.
+Note: the rubric asks for the image slideshow to carry *captions and 2–3 sentence descriptions*. Done — each of the four posters on 01 now has a caption, a source link and the author’s description.
 
 ---
 
