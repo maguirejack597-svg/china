@@ -1,6 +1,6 @@
 # China Family Planning Site — research handoff
 
-Everything gathered so far, for finishing pages 01–04.
+Everything gathered so far. Pages 01 and 02 carry the author’s own text; page 03 still holds draft prose; page 04 was removed on 17 Sep 2026 at the author’s request.
 
 Live site: <https://maguirejack597-svg.github.io/china/China%20Family%20Planning%20Site%20(standalone).html>
 Repo: <https://github.com/maguirejack597-svg/china>
@@ -17,7 +17,7 @@ Repo: <https://github.com/maguirejack597-svg/china>
 | 01 Health as Language | **4 poster images only** — needs your writing |
 | 02 Two Chinas | **Title only** — needs writing (no image assigned) |
 | 03 Missing Daughters | **Map + chart only** — needs your writing |
-| 04 The Backfire | **Fertility graph only** — needs your writing |
+| 04 The Backfire | **Removed 17 Sep 2026** at the author’s request |
 | Sources | Full bibliography. Done. |
 
 ---
@@ -34,10 +34,10 @@ Repo: <https://github.com/maguirejack597-svg/china>
 | Homepage | Met |
 | Timeline, 4–5 events | Met — 5 |
 | Event analysis + 2 quotations | Met |
-| Source synthesis, 3–5 pages, 1–2 quotations each | **Outstanding** — 01–04 need text |
+| Source synthesis, 3–5 pages, 1–2 quotations each | Met — 01, 02, 03, two quotations each |
 | Documentation page | Met |
 
-**The only thing left is writing 01–04.** Each needs one topic and 1–2 short quotations.
+**01 and 02 carry the author’s own text. 03 still has draft prose awaiting the author’s writing.**
 
 Note: the rubric asks for the image slideshow to carry *captions and 2–3 sentence descriptions*. The captions and source links are on the page; the descriptions were removed with the rest of the draft text, so those need rewriting too.
 
@@ -133,7 +133,7 @@ Good for 01 — the shift to eugenics, matching Plate 4.
 ### From *The Guardian* (31 May 2021)
 
 > "It's outdated. What China needs is not another state policy, but rather a better and fairer society." — Wang Feng
-**Best quote for page 04.**
+**Was page 04’s quote. Page 04 has been removed, so this is no longer used on any page, though the Guardian article remains listed on the Sources page.**
 
 ---
 
@@ -186,7 +186,7 @@ From the UNFPA brief:
 
 ---
 
-## 7. Suggested plan for 01–04
+## 7. Suggested plan for 01–03
 
 Each page wants one topic and 1–2 short quotations.
 
@@ -199,8 +199,7 @@ Quotes: "urban bias"; the peasants/fines line. Needs no image, though you could 
 **03 Missing Daughters** — the sex ratio as evidence that enforcement varied by place. The looser 1.5-child rule produced the *worse* imbalance, because a couple whose first child was a girl got exactly one more chance.
 Quotes: the 111.6 vs 124.7 line; the Fujian/Anhui line. Map and chart already on the page.
 
-**04 The Backfire** — the reversal. Fertility was already falling before 1979 and kept falling after 2016, so lifting the limit changed little; the obstacle is now cost, not permission.
-Quote: Wang Feng. Graph already on the page.
+**04 The Backfire** — **page removed 17 Sep 2026.** The OWID fertility graph (asset …0005) is still embedded in the bundle but is no longer referenced by any page, so it can be reused elsewhere or dropped.
 
 A possible through-line for the whole site: the number the government wanted changed, but the premise that the government sets the number did not.
 
@@ -218,7 +217,7 @@ tools/addasset.js     <- adds a new image to the bundle
 ```
 
 **To change text:**
-1. Edit `src/template.html`. Pages live in `<sc-if value="{{ isS1 }}">` … `</sc-if>` blocks (`isS1`–`isS4` are pages 01–04).
+1. Edit `src/template.html`. Pages live in `<sc-if value="{{ isS1 }}">` … `</sc-if>` blocks (`isS1`–`isS3` are pages 01–03).
 2. Run `node tools/rebundle.js`
 3. `git add -A && git commit -m "..." && git push`
 4. GitHub Pages rebuilds in about a minute.
@@ -249,7 +248,7 @@ Then reference it as `<img src="<some-uuid>">` in the template. The seven alread
 
 ## 9. Open items
 
-- Write 01–04 (including the 2–3 sentence descriptions under each poster).
+- Page 03 still needs the author’s text in place of the draft prose.
 - Verify the Zeng & Hesketh quotations in §5 before using them.
 - "After about 40 years" on the 2016 timeline entry — the policy ran 1979/80 to 2016, about 36 years. Your earlier "about 35" was closer.
 - Page 02 has no image. Optional.
