@@ -84,6 +84,8 @@ The narrative essay on this page is a genuinely useful secondary source, not jus
 
 These I pulled from the actual source text and confirmed word for word. Safe to quote.
 
+**Re-checked 16 Sep 2026.** Every quotation now on the site was re-verified against its source, except the Hardee-Cleaveland and Banister line (see the note under Zhang below). Results are marked inline.
+
 ### From chineseposters.net (Population Policy)
 
 > "Yet, family planning remained voluntary until 1970."
@@ -121,7 +123,8 @@ Good for 01 — the shift to eugenics, matching Plate 4.
 ### From Zhang (*JEP*, 2017)
 
 > "Provincial and prefectural officials had strong incentives to require or even force local residents to comply with the one-child policy."
-*(Zhang citing Hardee-Cleaveland and Banister 1988 — already used on Event Analysis)*
+*(Zhang citing Hardee-Cleaveland and Banister 1988 — used on Event Analysis)*
+**Could not re-verify 16 Sep 2026** — the JEP full text is paywalled (aeaweb and ResearchGate both return 403; only the abstract is public, and this sentence is not in the abstract). It stays on the site on the strength of the original word-for-word check recorded in this section. If you have library access, this is the one quotation left to confirm.
 
 > "In 1979, China introduced its unprecedented one-child policy, under which households exceeding the birth quota were penalized."
 
@@ -134,14 +137,30 @@ Good for 01 — the shift to eugenics, matching Plate 4.
 
 ---
 
-## 5. Quotations needing verification before use
+## 5. Quotations — checked against the article (16 Sep 2026)
 
-These came through an automated summariser rather than my own read of the full text. **Check them against the article before quoting.**
+These originally came through an automated summariser. All three have now been checked against the full text on PMC.
 
 From Zeng and Hesketh (*The Lancet*):
-- "In rural areas, this rule was particularly unpopular and deemed virtually unenforceable."
-- "Rural couples in most provinces were allowed a second child if their first was a girl, the so-called 1.5-child policy."
-- Sex ratio "peaked at 121 in 2005 … with ratios as high as 140 in parts of rural central China."
+
+> "In rural areas, this rule was particularly unpopular and deemed virtually unenforceable."
+
+**Verbatim — confirmed.** Now quoted on page 02.
+
+> "The sex ratio at birth peaked at 121 in 2005, with latest estimates showing a fall to 116 in 2014, but with ratios as high as 140 in parts of rural central China."
+
+**Verbatim — confirmed.** Used as paraphrase with the figures on page 03.
+
+> ~~"Rural couples in most provinces were allowed a second child if their first was a girl, the so-called 1.5-child policy."~~
+
+**Do not quote — the summariser reworded this.** The article actually reads: "from 1984 rural couples in most provinces were allowed to have a second child if their first was a girl, the so-called 1·5-child policy." Dropped "from 1984", and "allowed to have" became "allowed". Used as paraphrase on page 02, with the 1984 date restored.
+
+Also confirmed verbatim: "Two or more children were allowed for ethnic minorities, who account for around 9% of the total population."
+
+From the UNFPA brief:
+- Sex selection as "a symptom of pervasive social, cultural, political and economic injustices against girls and women." **Still unchecked** — used as paraphrase on page 03, not quoted.
+
+**Lesson worth keeping:** two of three were fine and one was silently reworded. Substance survives summarisation; exact wording does not. Paraphrase anything not read in the original.
 
 From the UNFPA brief:
 - Sex selection is "a symptom of pervasive social, cultural, political and economic injustices against girls and women." *(This one appears verbatim on page 1 of the PDF and is probably fine, but worth a glance.)*
